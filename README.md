@@ -13,3 +13,4 @@ Libraries Used -->
 
 -> Requires an active internet connection to work 
 -> Languages can be altered by changing the language code (default --> 'en') 
+-> For Better Presentation line limit is 15 words/line 
